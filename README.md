@@ -1,6 +1,6 @@
 # PiLAMPServer
 This project was for school. I can't find the details of me putting together.
-The RaspberryPi website has a very good details of putting it together.
+The RaspberryPi website has a very good details of putting it together. More will be added as I go back and set it up.
 
 The only problems I ran into while putting this together was actually accessing the server
 from a different device. I could reach it, but it didn't come across the network 
